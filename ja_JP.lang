@@ -1,0 +1,60 @@
+project_name=DragonProxy
+
+init_loading=[PROJNAME]の準備中, バージョン: %s ... 
+
+init_mc_pc_support=バージョン Minecraft PC/Mac: %s　対応
+
+init_mc_pe_support=バージョン Minecraft: Pocket Edition: %s　対応
+
+init_creating_thread_pool=スレッドプールを製作中(Size:%s)... 
+
+init_binding= %s:%s に結びつけています ... 
+
+init_done=サーバー起動しました!
+
+command_not_found=コマンドが見つかりません!
+
+broadcast_title=PC/Mac Server [%s:%s] by [PROJNAME]
+
+message_client_connected=プレイヤー %s[%s] は接続しました!
+
+message_online_notice=\u00b7------------------------\n\u00b7* Minecraft Login *\n\u00b7Powered by DragonProxy! \n\u00b7http://dragonet.org/proxy\n\u00b7\n\u00b7[%s]としてログイン. \n\u00b7------------------------
+
+message_online_email=\u00b7チャットで Minecraft PC/Mac のアカウントのメアドを入力してください:
+
+message_online_error=\u00b7間違っています、再入力してください. 
+
+message_online_password=\u00b7パスワードを入力してください: 
+
+message_online_logging_in=\u00b7 Mojang ABにログインしています,お待ちください... 
+
+message_online_login_success=\u00b7ログインしました、サーバーに接続します... 
+
+message_online_login_success_console=プレイヤー %s[%s] はMinecraftアカウントでログインしました. 
+
+message_online_username=あなたの名前のMinecraftアカウントのプレイヤー　%s はすでに鯖にいます. 
+
+message_online_login_faild=\u00b7ログイン失敗おっ...! 
+
+message_remote_connected=プレイヤー %s[%s]のためのブリッジを作りました! 
+
+message_remote_connect_failure=リモート Minecraft PC/Mac 鯖にアクセスできませんでした! 
+
+message_remote_is_online=オンラインモードのサーバーは対応していません! 
+
+message_remote_error=リモートサーバーのネットワークエラー! 
+
+message_joined=プレイヤー　%s[%s] はリモートサーバーに接続しました! 
+
+message_kicked=プレイヤー %s[%s] はキックされました 理由: %s
+
+message_remote_disconnected=リモートサーバーが切断されました! 
+
+message_client_disconnect=クライアント切断しました
+
+message_unsupported_client= このクライアントは対応していません! 
+
+client_disconnected=クライアント %s[%s] 切断しました! 理由: %s
+
+shutting_down= [PROJNAME]を終了中... 
+
