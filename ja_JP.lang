@@ -14,7 +14,7 @@ init_done=サーバー起動しました!
 
 command_not_found=コマンドが見つかりません!
 
-broadcast_title=PC/Mac Server [%s:%s] by [PROJNAME]
+broadcast_title=PC/Mac サーバー [%s:%s] by [PROJNAME] 
 
 message_client_connected=プレイヤー %s[%s] は接続しました!
 
