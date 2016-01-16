@@ -11,4 +11,4 @@ Translations for DragonPortal. Pull requests are welcomed!
 - `zh_CN.lang` - Simplified Chinese translation by @mainwindow
 - `ja_JP.lang` - Japanese translation by @haniokasai
 - `pt_BR.lang` - Portuguese-Brazil translation by @MrPowerGamerBR
-- `ru_RU.lang` - Portuguese-Brazil translation by @kirill3345
+- `ru_RU.lang` - Russian translation by @kirill3345
