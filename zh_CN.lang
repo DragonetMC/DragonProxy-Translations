@@ -6,7 +6,6 @@ init_creating_thread_pool=正在创建线程池(大小:%s)...
 init_binding=正在绑定 %s:%s ... 
 init_done=服务端启动成功!
 command_not_found=没有找到此命令!
-broadcast_title=PC/Mac Server [%s:%s] by [PROJNAME]
 message_client_connected=玩家 %s[%s] 已连接!
 message_online_notice=\u00b7------------------------\n\u00b7*     Minecraft 登录     *\n\u00b7Powered by DragonProxy! \n\u00b7http://dragonet.org/proxy\n\u00b7\n\u00b7Logging 您登录为 [%s]. \n\u00b7------------------------
 message_online_email=\u00b7请在聊天窗口处输入您 Minecraft PC/Mac 帐号的电子邮件地址:

@@ -6,7 +6,6 @@ init_creating_thread_pool=Criando thread pool(Tamanho:%s)...
 init_binding=Servidor criado em %s:%s ... 
 init_done=Servidor iniciado! 
 command_not_found=\u00A7cComando não encontrado!
-broadcast_title=Servidor PC [%s:%s] por [PROJNAME]
 message_client_connected=Player %s[%s] conectado! 
 message_online_notice=\u00b7------------------------\n\u00b7*     Minecraft Login     *\n\u00b7Powered by DragonProxy! \n\u00b7http://dragonet.org/proxy\n\u00b7\n\u00b7Logando como [%s]. \n\u00b7------------------------
 message_online_email=\u00b7Por favor coloque o seu e-mail da sua conta do Minecraft PC/Mac no chat:

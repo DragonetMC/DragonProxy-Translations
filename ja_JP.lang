@@ -14,8 +14,6 @@ init_done=サーバー起動しました!
 
 command_not_found=コマンドが見つかりません!
 
-broadcast_title=PC/Mac サーバー [%s:%s] by [PROJNAME] 
-
 message_client_connected=プレイヤー %s[%s] は接続しました!
 
 message_online_notice=\u00b7------------------------\n\u00b7* Minecraft Login *\n\u00b7Powered by DragonProxy! \n\u00b7http://dragonet.org/proxy\n\u00b7\n\u00b7[%s]としてログイン. \n\u00b7------------------------

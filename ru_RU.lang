@@ -6,7 +6,6 @@ init_creating_thread_pool=Создание пути протоколов(Раз�
 init_binding=Запущен на %s:%s ... 
 init_done=Сервер запущен!
 command_not_found=\u00a7cКоманда не найдена!
-broadcast_title=PC Сервер [%s:%s] от [PROJNAME]
 message_client_connected=Игрок %s[%s] подключился! 
 message_online_notice=\u00b7------------------------\n\u00b7*     Minecraft Вход     *\n\u00b7Работает на DragonProxy! \n\u00b7http://dragonet.org/proxy\n\u00b7\n\u00b7Вы вошли как [%s]. \n\u00b7------------------------
 message_online_email=\u00b7Введите ваш Minecraft PC/Mac адрес электронной почты аккаунта в чат:
