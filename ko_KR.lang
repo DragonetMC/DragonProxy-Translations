@@ -6,7 +6,6 @@ init_creating_thread_pool=thread pool 생성 중(크기:%s)...
 init_binding=%s:%s에 바인드 중 ... 
 init_done=서버가 시작되었습니다!
 command_not_found=명령어가 없습니다.
-broadcast_title=PC/Mac Server [%s:%s] by [PROJNAME]
 message_client_connected=플레이어 %s[%s]가 연결되었습니다.
 message_online_notice=\u00b7------------------------\n\u00b7*     마인크래프트 로그인     *\n\u00b7by DragonProxy! \n\u00b7http://dragonet.org/proxy\n\u00b7\n\u00b7[%s]로 로그인했습니다. \n\u00b7------------------------
 message_online_email=\u00b7마인크래프트 PC 계정의 이메일 주소를 채팅에 입력해 주세요:
