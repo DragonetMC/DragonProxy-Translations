@@ -17,6 +17,7 @@ message_online_login_success_console=玩家 %s[%s] 使用 Minecraft 帐号登录
 message_online_username=您的 Minecraft 帐号用户名更正为 %s. 
 message_online_login_faild=\u00b7登录失败!
 message_remote_connected=连接桥已为玩家 %s[%s] 创建! 
+message_teleport_to_spawn=\u00a7aTeleporting you to the server spawn point... \n\u00a7cYou may stuck, try join again if your screen kept shaking for over 15 seconds. 
 message_remote_connect_failure=无法连接至目标 Minecraft PC/Mac 服务器! 
 message_remote_is_online=Online-mode(联机模式) 的服务器不被支持!
 message_remote_error=目标服务器网络错误!

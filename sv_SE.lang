@@ -17,6 +17,7 @@ message_online_login_success_console=Spelare %s[%s] loggade in via Minecraft kon
 message_online_username=Ditt användarnamn har korrigerats till ditt PC/Mac Minecraft användarnamn (%s).
 message_online_login_faild=\u00a7cInloggning misslyckades. Logga ut och försök igen.
 message_remote_connected=Brygga för %s[%s] är etablerad!
+message_teleport_to_spawn=\u00a7aTeleporting you to the server spawn point... \n\u00a7cYou may stuck, try join again if your screen kept shaking for over 15 seconds. 
 message_remote_connect_failure=Kunde inte ansluta till Minecraft PC/Mac server!
 message_remote_is_online=Online-mode servrar stödjs inte!
 message_remote_error=Fjärr server fel!

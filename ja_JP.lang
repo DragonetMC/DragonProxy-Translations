@@ -16,6 +16,8 @@ command_not_found=コマンドが見つかりません!
 
 message_client_connected=プレイヤー %s[%s] は接続しました!
 
+message_teleport_to_spawn=\u00a7aTeleporting you to the server spawn point... \n\u00a7cYou may stuck, try join again if your screen kept shaking for over 15 seconds. 
+
 message_online_notice=\u00b7------------------------\n\u00b7* Minecraft Login *\n\u00b7Powered by DragonProxy! \n\u00b7http://dragonet.org/proxy\n\u00b7\n\u00b7[%s]としてログイン. \n\u00b7------------------------
 
 message_online_email=\u00b7チャットで Minecraft PC/Mac のアカウントのメアドを入力してください:

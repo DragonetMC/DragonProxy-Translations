@@ -17,6 +17,7 @@ message_online_login_success_console=Player %s[%s] logou com uma conta do Minecr
 message_online_username=Seu username foi trocado para %s como a sua conta de PC/Mac Minecraft. 
 message_online_login_faild=\u00A7cFalha no login, por favor reconecte.
 message_remote_connected=Ponte estabelecida para o player %s[%s]! 
+message_teleport_to_spawn=\u00a7aTeleporting you to the server spawn point... \n\u00a7cYou may stuck, try join again if your screen kept shaking for over 15 seconds. 
 message_remote_connect_failure=Não foi possível conectar ao Servidor de Minecraft PC/Mac! 
 message_remote_is_online=Servidores utilizando online-mode não são suportados!
 message_remote_error=Falha na conexão remota!

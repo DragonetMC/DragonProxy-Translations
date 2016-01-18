@@ -17,6 +17,7 @@ message_online_login_success_console=%s[%s] 플레이어는 마인크래프트 �
 message_online_username=당신의 유저 네임이 %s와 마인크래프트 계정으로 연결되었습니다. 
 message_online_login_faild=\u00b7로그인에 실패하였습니다.
 message_remote_connected=%s[%s]와의 연결 브릿지가 생성되었습니다! 
+message_teleport_to_spawn=\u00a7aTeleporting you to the server spawn point... \n\u00a7cYou may stuck, try join again if your screen kept shaking for over 15 seconds. 
 message_remote_connect_failure=대상 PC 서버와 연결할 수 없습니다.
 message_remote_is_online=online-mode가 프록시 서버에 설정되어 있지 않습니다.
 message_remote_error=대상 서버와의 네트워크 오류가 발생하였습니다.
