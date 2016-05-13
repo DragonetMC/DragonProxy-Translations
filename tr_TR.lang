@@ -1,0 +1,41 @@
+# =================================
+#| DragonProxy Configuration File |
+#|    Sponsered by BytePowered    | 
+#|      Translated by IRFN        |
+# =================================
+project_name=DragonProxy
+init_loading=[PROJNAME], version: %s başlatılıyor... 
+init_mc_pc_support=Desteklenen Minecraft PC/Mac versiyonu: %s
+init_mc_pe_support=Desteklenen Minecraft: Pocket/Windows 10 Edition versiyonu: %s
+init_creating_thread_pool=İş parçacığı havuzu oluşturuluyor(Boyut:%s)... 
+init_binding=%s:%s IP ve porta bağlanılıyor ... 
+init_done=DragonProxy başlatıldı! 
+command_not_found=\u00a7cKomut bulunamadı!
+message_client_connected=Oyuncu %s[%s] bağlandı! 
+message_online_notice=\u00b7------------------------\n\u00b7*     Minecraft Login     *\n\u00b7DragonProxy tarafından geliştirildi! \n\u00b7http://dragonet.org/proxy\n\u00b7\n\u00b7[%s] olarak giriş yapılıyor. \n\u00b7------------------------
+message_online_email=\u00b7Lütfen Minecraft PC/Mac hesap e-posta bilgisini sohbete yazın:
+message_online_error=\u00a7cBilgileriniz hatalı. Lütfen tekrar deneyin.
+message_online_password=\u00b7Lütfen parolanızı girin: 
+message_online_logging_in=\u00b7Mojang ile giriş yapılıyor, lütfen bekleyin... 
+message_online_login_success=\u00a7aGiriş başarılı! Sunucuya giriş yapılıyor...
+message_online_login_success_console=Oyuncu %s[%s] Minecraft hesabiyla giris yapti. 
+message_online_username=Kullanıcı adınız PC/Mac Minecraft hesabınızdaki gibi %s olarak düzeltildi. 
+message_online_login_faild=\u00a7cGiriş işlemi başarısız. Lütfen tekrar deneyin.
+message_remote_connected=%s[%s] oyuncusu için köprü oluşturuldu! 
+message_teleport_to_spawn=\u00a7aServer spawn noktasına ışınlanıyorsunuz... \n\u00a7cTakılı kalabilirsiniz, 15 saniyeden uzun süre ekran sallanırsa tekrar giriş yapın. 
+message_remote_connect_failure=Minecraft PC/Mac sunucusu ile uzak bağlantı kurulamadı! 
+message_remote_is_online=Online-mode sunucular desteklenmiyor! 
+message_remote_error=Uzak sunucu ağ hatası! 
+message_joined=Oyuncu %s[%s] uzak sunucuya bağlandı! 
+message_kicked=Oyuncu %s[%s] atıldı, sebep: %s
+message_remote_disconnected=Uzak sunucu bağlantısı kapatıldı! 
+message_client_disconnect=Client bağlantısı koparıldı!
+message_unsupported_client=Desteklenmeyen client! 
+client_disconnected=%s[%s] bağlantısı koparıldı! Sebep: %s
+shutting_down=[PROJNAME] kapatılıyor...
+query_failed=%ip%:%port% adresine bağlanılamıyor!
+message_cls_notice=Dragonet CLS sistemi devrede. \n\u00a7eGiriş yapmak için \u00a7ahttp://auth.dragonet.org &esitesine girip yönergeleri takip edebilirsin.
+message_server_error=\u00a7cSunucu bağlantınızı kurarken hata oluştu! \n\u00a7cLütfen daha sonra tekrar girmeyi deneyin... :( \n\u00a70.\n\u00a7cSebep: %s
+error_cls_unreachable=CLS HTTP API bağlantısı kurulamadı.
+error_cls_error=CLS sisteminde hata oluştu. Tekrar deneyin.
+error_cls_login=Giriş anahtarınız ile bağlanılamadı, CLS ile tekrar bağlanmayı deneyin... 
