@@ -1,3 +1,7 @@
+# =================================
+#| DragonProxy Configuration File  |
+#|    Sponsered by BytePowered     |
+# =================================
 project_name=DragonProxy
 init_loading=Startar upp [PROJNAME], version: %s ...
 init_mc_pc_support=Version av Minecraft PC/Mac som stödjs: %s
@@ -17,7 +21,7 @@ message_online_login_success_console=Spelare %s[%s] loggade in via Minecraft kon
 message_online_username=Ditt användarnamn har korrigerats till ditt PC/Mac Minecraft användarnamn (%s).
 message_online_login_faild=\u00a7cInloggning misslyckades. Logga ut och försök igen.
 message_remote_connected=Brygga för %s[%s] är etablerad!
-message_teleport_to_spawn=\u00a7aTeleporting you to the server spawn point... \n\u00a7cYou may stuck, try join again if your screen kept shaking for over 15 seconds. 
+message_teleport_to_spawn=\u00a7aTeleporterar dig till serverns spawnpunkt... \n\u00a7cDu kanske fastnar, försök logga in igen om skärmen skakar i mer än 15 sekunder. 
 message_remote_connect_failure=Kunde inte ansluta till Minecraft PC/Mac server!
 message_remote_is_online=Online-mode servrar stödjs inte!
 message_remote_error=Fjärr server fel!
@@ -28,3 +32,8 @@ message_client_disconnect=Klient bortkopplad
 message_unsupported_client=Klienten stödjs inte!
 client_disconnected=Klient %s[%s] kopplades bort! Anledning: %s
 shutting_down=Stänger ner [PROJNAME]...
+message_server_error=\u00a7cServern kunde inte logga in dig på grund av ett fel! \n\u00a7cFörsök logga in igen senare... :( \n\u00a70.\n\u00a7cAnledning: %s
+error_cls_unreachable=Kunde inte nå CLS HTTP API
+error_cls_error=CLS System svarade med konstiga saker. Försök igen.
+logging_true=Console loggning aktiverad
+logging_false=Console loggning inaktiverad
