@@ -1,0 +1,40 @@
+# =================================
+#| DragonProxy konfigurace  |
+#|    Sponzorovano BytePowered     |
+# =================================
+project_name=DragonProxy
+init_loading=Zapinam [PROJNAME], verze: %s ...
+init_mc_pc_support=Posporovana verze Minecraft Java edice: %s
+init_mc_pe_support=Podporovana verze Minecraft Bedrock edice: %s
+init_creating_thread_pool=Vytvarim thread pool(Velikost:%s)...
+init_binding=Hledam pripojeni na %s:%s ...
+init_done=Proxy je spusteno!
+command_not_found=\u00a7cPrikaz nebyl nalezen!
+message_client_connected=Hrac %s[%s] se pripojil!
+message_online_notice=\u00b7------------------------\n\u00b7*     Minecraft Login     *\n\u00b7Powered by DragonProxy! \n\u00b7http://dragonet.org/proxy\n\u00b7\n\u00b7Logging in as [%s]. \n\u00b7------------------------
+message_online_email=\u00b7Prosim zadej email sveho Mojang uctu do chatu:
+message_online_error=\u00a7cYour details were wrong. Please rejoin.
+message_online_password=\u00b7Prosim zadej sve heslo:
+message_online_logging_in=\u00b7Probiha prihlasovani pres Mojang AB, prosim pockej...
+message_online_login_success=\u00a7aPrihlaseni bylo uspesne! Probiha pripojovani k serveru...
+message_online_login_success_console=Hrac %s[%s] se prihlasil  pres Minecraft ucet.
+message_online_username=Tvuj nick byl zmenen na %s stejne jako tvuj Minecraft ucet.
+message_online_login_faild=\u00a7cPrihlaseni se nezdarilo. Prosim pripoj se znova.
+message_remote_connected=Propojeni navazano pro hrace %s[%s]!
+message_teleport_to_spawn=\u00a7aTeleportuji te na server spawn pozici... \n\u00a7cMozna se zaseknes ve vzduchu. Zkus se pripojit znova pokud problem nezmizi do 15 sekund.
+message_remote_connect_failure=Nepodarilo se pripojit na Minecraft Java edition server!
+message_remote_is_online=Servery s online modem nejsou podporovane!
+message_remote_error=Chyba v síti vzdaleneho serveru!
+message_joined=Hrac %s[%s] se pripojil ke vzdalenemu serveru!
+message_kicked=Hrac %s[%s] byl vykopnut kvuli: %s
+message_remote_disconnected=Vzdaleny server se odpojil!
+message_client_disconnect=Klient byl odpojen.
+message_unsupported_client=Nepodporovany klient!
+client_disconnected=Klient %s[%s] byl odpojen! Duvod: %s
+shutting_down=Vypinam [PROJNAME]...
+query_failed=Nepodarilo se pripojit na %ip%:%port%!
+message_cls_notice=Dragonet CLS system je zapnuty. \n\u00a7eMuzes se prihlasit na \u00a7ahttp://auth.dragonet.org &ea postupovat podle instrukci.
+message_server_error=\u00a7cServeru se nepodarilo te pripojit kvuli tamejsi chybe! \n\u00a7cProsim zkus se pripojit znova pozdeji... :( \n\u00a70.\n\u00a7cDuvod: %s
+error_cls_unreachable=Nepodarilo se pripojit k CLS HTTP API
+error_cls_error=CLS System odeslal necekanou odpoved. Prosim zkus to znova.
+error_cls_login=Nepodarilo se pripojit s tvym prihlasovacim klicem, zkus se znova prihlasit pres CLS?
