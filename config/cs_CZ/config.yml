@@ -21,20 +21,20 @@ motd: '&aServer by DragonProxy'
 
 # Na jaky server se ma proxy automaticky pripojit
 # Jmena serveru si muzes nastevit hned v dalsim nastaveni
-default_server: 'my_pc_server'
+default_server: 'muj_pc_server'
 
 
 # Seznam konfiguraci vzdalenych serveru
 # Upozorneni: pouzivej mezery misto tabulatoru jako posun radku
 remote_servers:
-  my_pc_server:
+  muj_pc_server:
     # Dalsi radek indikuje, ze se jedna o java edition server
     !!org.dragonet.proxy.DesktopServer
     # Hypixel je dost znamy server
     # tak ho pojdme zkusit! ;)
     remote_addr: 'mc.hypixel.net'
     remote_port: 25565
-  my_pe_server:
+  muj_pe_server:
     # Dalsi radek indikuje, ze se jedna o bedrock edition server
     !!org.dragonet.proxy.PocketServer
     remote_addr: 'your.packets.server.com'
