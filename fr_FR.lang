@@ -1,0 +1,44 @@
+project_name=DragonProxy
+init_loading=Lancement de [PROJNAME], version: %s ... 
+init_mc_pc_support=Version de Minecraft: PC/Mac supportée : %s
+init_mc_pe_support=Version de Minecraft: Pocket Edition/Windows 10 supportée : %s
+init_creating_thread_pool=Création de la discussion pool(Size:%s)... 
+init_binding=Contraignant sur %s:%s ... 
+init_done=Le proxy est démarré! 
+command_not_found=\u00a7cCommande inexistante!
+message_client_connected=Joueur %s[%s] connecté!
+message_login_prompt=\u00a7e==== \u00a7bConnexion sur \u00a74Minecraft \u00a7e====\n\
+\u00a7falimenté par DragonProxy\n\
+\u00a7aBougez un petit peu pour vous connecter!
+message_login_progress=\u00a76Connexion en cours...
+form_login_title=\u00a71\u00a7lConnexion à votre \u00a74\u00a7lCompte Minecraft
+form_login_desc=DragonProxy autorise les joueurs sur l'édition Bedrock/PE  pour rejoindre les serveurs Minecraft: Java Edition.
+form_login_prompt=\u00a7aEntrez votre compte Minecraft: Java Edition pour vous connecter.
+form_login_username=\u00a7bPseudo/Adresse email:
+form_login_password=\u00a7bMot de passe:
+message_online_error=\u00a7cVos informations sont fausses.Rejoignez s'il vous plaît.
+message_online_password=\u00b7Veuillez entrer le mot de passe: 
+message_online_logging_in=\u00b7Connexion à Mojang AB, veuillez patienter... 
+message_online_login_success=\u00a7aConnexion effectuée! Connexion au serveur...
+message_online_login_success_console=Joueur %s[%s] connecté via un compte Minecraft. 
+message_online_username=Votre pseudo a été corrigé à %s comme votre compte Minecraft PC/Mac. 
+message_online_login_faild=\u00a7cConnexion echouée. S'il vous plaît rejoignez.
+message_remote_connected=Pont établi pour le joueur %s[%s]! 
+message_teleport_to_spawn=\u00a7aTéléportation au spawn du serveur... \n\u00a7cSi vous êtes bloqué, essayez de rejoindre à nouveau. 
+message_remote_connect_failure=Impossible d'établir un pont au serveur Minecraft PC/Mac ! 
+message_remote_is_online=Le mode online-mode n'est pas supporté ! 
+message_remote_error=Pont du serveur de réseau inacessible! 
+message_joined=Joueur %s[%s] a rejoint le pont du serveur! 
+message_kicked=Joueur %s[%s] a été éjecté pour: %s
+message_remote_disconnected=Pont du serveur déconnecté! 
+message_client_disconnect=Déconnexion du client
+message_unsupported_client=Client insupporté! 
+client_disconnected=Client %s[%s] déconnecté! Raison: %s
+shutting_down=Arrêt de [PROJNAME]...
+query_failed=Impossible de se connecter vers %ip%:%port%!
+message_cls_notice=Dragonet CLS system activé. \n\u00a7eVous pouvez vous connecter sur \u00a7ahttp://auth.dragonet.org &eet suivre les instructions.
+message_server_error=\u00a7cLe serveur est dans l'incapabilité de vous connecter pour raison qu'il y a une erreur! \n\u00a7cEssayez de rejoindre plus tard... :( \n\u00a70.\n\u00a7cRaison: %s
+error_cls_unreachable=Impossible d'atteindre CLS HTTP API
+error_cls_error=CLS System a répondu un objet bizarre. Veuillez réessayer.
+error_cls_login=Impossible de se connecter avec votre login token, essayez de vous reconnecter sur le CLS?
+error_bad_login_packet=Session invalide (Essayez de redémarrer votre jeu)
