@@ -12,4 +12,5 @@ Translations for DragonProxy. Pull requests are welcomed!
 - `ja_JP.lang` - Japanese translation by @haniokasai
 - `pt_BR.lang` - Portuguese-Brazil translation by @MrPowerGamerBR
 - `ru_RU.lang` - Russian translation by @kirill3345
+- `fr_FR.lang` - French translation by @x9nico
 - ·sv_SE.lang·
