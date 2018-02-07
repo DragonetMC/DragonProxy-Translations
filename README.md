@@ -7,7 +7,7 @@ Translations for DragonProxy. Pull requests are welcomed!
 - 3. Start/restart your server. 
 
 ## Currently supports
-- `ko_KR.lang` - Korean translation by @KangYui 
+- `ko_KR.lang` - Korean translation by @KangYui (Contributed by Adeuran)
 - `zh_CN.lang` - Simplified Chinese translation by @mainwindow
 - `ja_JP.lang` - Japanese translation by @haniokasai
 - `pt_BR.lang` - Portuguese-Brazil translation by @MrPowerGamerBR
