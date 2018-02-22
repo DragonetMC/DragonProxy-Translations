@@ -1,10 +1,10 @@
 # DragonProxy-Translations
-Translations for DragonProxy. Pull requests are welcomed! 
+Translations for [DragonProxy](https://github.com/DragonetMC/DragonProxy). Pull requests are welcomed! 
 
 ## Usage
-- 1. Put the language file into the same folder of DragonProxy binary file. 
-- 2. Change `lang` option to the file name of the language file (e.g. `ko_KR.lang`) in config.properties. 
-- 3. Start/restart your server. 
+- Put the language file into the same folder of DragonProxy binary file. 
+- Change `lang` option to the file name of the language file (e.g. `ko_KR.lang`) in config.properties. 
+- Start/restart your server. 
 
 ## Currently supports
 - `ko_KR.lang` - Korean translation by @KangYui (Contributed by Adeuran)
