@@ -7,10 +7,10 @@ Translations for [DragonProxy](https://github.com/DragonetMC/DragonProxy). Pull 
 - Start/restart your server. 
 
 ## Currently supports
-- `ko_KR.lang` - Korean translation by @KangYui (Contributed by Adeuran)
-- `zh_CN.lang` - Simplified Chinese translation by @mainwindow
-- `ja_JP.lang` - Japanese translation by @haniokasai
-- `pt_BR.lang` - Portuguese-Brazil translation by @MrPowerGamerBR
-- `ru_RU.lang` - Russian translation by @kirill3345
-- `fr_FR.lang` - French translation by @x9nico
+- `ko_KR.lang` - Korean translation by [@KangYui](https://github.com/KangYui) (Contributed by Adeuran)
+- `zh_CN.lang` - Simplified Chinese translation by [@mainwindow](https://github.com/mainwindow)
+- `ja_JP.lang` - Japanese translation by [@haniokasai](https://github.com/haniokasai)
+- `pt_BR.lang` - Portuguese-Brazil translation by [@MrPowerGamerBR](https://github.com/MrPowerGamerBR)
+- `ru_RU.lang` - Russian translation by [@kirill3345](https://github.com/kirill3345)
+- `fr_FR.lang` - French translation by [@x9nico](https://github.com/x9nico), edited by [@Alexandre1406-2](https://github.com/Alexandre1406-2)
 - ·sv_SE.lang·
