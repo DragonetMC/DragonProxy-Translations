@@ -1,0 +1,49 @@
+# =================================
+#| DragonProxy Configuration File  |
+#|    Sponsered by BytePowered     |
+#|    Translated by Patbox         |
+# =================================
+project_name=DragonProxy
+init_loading=Uruchamianie [PROJNAME], wersja: %s ... 
+init_mc_pc_support=Wspierana wersja Minecraft PC/Mac: %s
+init_mc_pe_support=Wspierana wersja Minecraft: Pocket/Windows 10 Edition: %s
+init_creating_thread_pool=Tworzenie puli wątków: (Size:%s)... 
+init_binding=Binding on %s:%s ... 
+init_done=Proxy wystartowało!
+command_not_found=\u00a7cNie znaleziono komendy!
+message_client_connected=Player %s[%s] połączył się!
+message_login_prompt=\u00a7e==== \u00a7bLogowanie do \u00a74Minecraft \u00a7e====\n\
+\u00a7fzasilane za pomocą DragonProxy\n\
+\u00a7aRusz się, aby się zalogować!
+message_login_progress=\u00a76Autoryzacja...
+form_login_title=\u00a71\u00a7lZalogowano do konta \u00a74\u00a7lMinecraft
+form_login_desc=DragonProxy pozwala Bedrock/PE dołączyć na serwery Minecraft: Java Edition.
+form_login_prompt=\u00a7aPodaj swoje konto, aby się zalogować.
+form_login_username=\u00a7bNick/Email:
+form_login_password=\u00a7bHasło:
+message_online_error=\u00a7cZłe dane. Proszę relognij.
+message_online_password=\u00b7Wprować hasło: 
+message_online_logging_in=\u00b7Logowonie... 
+message_online_login_success=\u00a7aZalogowano! Łączenie z serwerem...
+message_online_login_success_console=Gracz %s[%s] zalogował się na konto Minecraft. 
+message_online_username=Podałeś zły nick %s do konta Minecraft . 
+message_online_login_faild=\u00a7cNie udało się zalogować. Relognij.
+message_remote_connected=Połaczenie zostało zawarte dla gracza %s[%s]! 
+message_teleport_to_spawn=\u00a7aTeleportacja do spawnpointa... \n\u00a7cMożesz utknąć, relognij, jeśli trzęsiesz się dłużej niż 15 sekund! 
+message_remote_connect_failure=Nie możesz się połączyć z serwerem Minecraft! 
+message_remote_is_online=Serwery Premium nie są wspierane! 
+message_remote_error=Błąd sieci! 
+message_joined=Player %s[%s] dołączył na serwer! 
+message_kicked=Player %s[%s] został wyrzucony z serwera ponieważ: %s
+message_remote_disconnected=Odłączono! 
+message_client_disconnect=Użytkownik rozłączył się
+message_unsupported_client=Niewspierana wersja! 
+client_disconnected=Gracz %s[%s] rozłączył się! Powód: %s
+shutting_down=Wyłączanie [PROJNAME]...
+query_failed=Nie można połączyć z %ip%:%port%!
+message_cls_notice=Dragonet CLS jest włączony. \n\u00a7eZaloguj się na \u00a7ahttp://auth.dragonet.org &ei podążaj za instrukcjami!
+message_server_error=\u00a7cNie możesz połączyć się z serwerem \n\u00a7cPlease try join again later... :( \n\u00a70.\n\u00a7cReason: %s
+error_cls_unreachable=Nie można połączyć z CLS HTTP API
+error_cls_error=CLS system zreplikował dziwne rzeczy. Spóbuj ponownie
+error_cls_login=Nie poprawna sesja, relognij na CLS
+error_bad_login_packet=Zła sesja (zrestartuj grę)
